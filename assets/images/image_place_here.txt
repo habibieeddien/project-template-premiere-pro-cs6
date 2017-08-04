@@ -1,0 +1,5 @@
+Logo, Icon, Image, Panorama, Bumper
+*.png
+*.jpg
+*.jpeg
+*.psd

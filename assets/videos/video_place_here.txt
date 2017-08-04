@@ -1,0 +1,6 @@
+Video File
+*.mp4
+*.mov
+*.avi
+*.3gp
+*.mpeg

@@ -1,0 +1,4 @@
+Narator/Vocal
+*.mp3
+*.ogg
+*.wav

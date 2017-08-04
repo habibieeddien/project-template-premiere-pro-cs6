@@ -1,0 +1,4 @@
+Sound Effect, Button Effect, Text Effect, Moving, Sliding, Showing
+*.mp3
+*.ogg
+*.wav
