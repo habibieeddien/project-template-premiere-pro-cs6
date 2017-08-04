@@ -1,4 +1,4 @@
-### Project Template untuk Adobe Premiere Pro CS6 ###
+##### Project Template untuk Adobe Premiere Pro CS6 #####
 
 * HDV Frame Size : 1280 x 720 (standard recomended)
 
@@ -53,7 +53,8 @@ Preset : HD 720p 29.97
 
 Output Name : Ubah nama file hasil export (beri versi misal: v1.0, v1.2, dst), dan letakkan di folder project
 
-*Video Tab Settings*
+
+`Video Tab Settings`
 
 Video size : 1280 x 720
 
@@ -71,7 +72,8 @@ Target Bitrate : 18 Mbps
 
 Max. Bitrate : 18 Mbps
 
-*Audio Tab Settings*
+
+`Audio Tab Settings`
 
 Audio Codec : AAC
 
